@@ -1,5 +1,5 @@
 
-import Navbar from '../../components/shared/navbar';
+import Navbar from '@/components/shared/navbar';
 
 const ForumCategories = () => {
     return ( 
